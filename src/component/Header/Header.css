@@ -16,3 +16,13 @@
     margin-left: 32px;
     font-size: 17px;
 }
+
+.loginBtn {
+    background: rgb(0, 110, 255);
+    border-radius: 4px;
+    color: #fff;
+    padding: 8px 10px;
+    border: 0;
+    cursor: pointer;
+    margin-left: 20px;
+}

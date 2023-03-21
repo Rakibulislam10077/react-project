@@ -15,7 +15,7 @@
 .cart_container {
     background: rgba(255, 153, 0, 0.3);
     padding: 28px 0 0 23px;
-    height: auto;
+    height: 100vh;
 }
 
 .cart_container h1 {
